@@ -3,8 +3,6 @@ package com.review.serviceImpl;
 import java.util.List;
 import java.util.Optional;
 
-import javax.swing.RepaintManager;
-
 import org.springframework.stereotype.Service;
 
 import com.review.entity.ReviewEntity;
